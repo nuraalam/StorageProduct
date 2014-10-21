@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\bin\Debug\StorageProductApp.exe.config
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\obj\Debug\StorageProductApp.ProductUI.resources
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\obj\Debug\StorageProductApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\obj\Debug\StorageProductApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\bin\Debug\StorageProductApp.exe
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\bin\Debug\StorageProductApp.pdb
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\obj\Debug\StorageProductApp.exe
+C:\Users\PC21\Desktop\Lab Test 21-10\StorageProductApp\StorageProductApp\obj\Debug\StorageProductApp.pdb
